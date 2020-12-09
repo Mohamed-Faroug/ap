@@ -20,7 +20,7 @@
 
 ***
 
-## Communities
+**Communities**
 
 * [Facebook Page](https://www.facebook.com/codesudan)
 * [GitHub](https://github.com/code-sudan)

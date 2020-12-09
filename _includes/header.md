@@ -1,6 +1,6 @@
 <a href="https://mohamed-faroug.github.io/ap/"><img src="https://i.ibb.co/6nghkNJ/Code-Sudan-Logos-2-removebg-previesdfasdw.png" alt="Code-Sudan-Logos-2-removebg-previesdfasdw" border="0"></a>
 
-## We Teach You How To Program Not How To Write Code
+**We Teach You How To Program Not How To Write Code**
 
 <a href="mailto:info@codesudan.io">info@codesudan.io</a>
 
