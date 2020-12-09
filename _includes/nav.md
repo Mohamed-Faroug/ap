@@ -14,10 +14,10 @@
 
 
 ***
-* [Graduates Projects](ttps://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
-* [Code_Sudan Team](ttps://mohamed-faroug.github.io/ap/team/)
+* [Graduates Projects](https://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
+* [Code_Sudan Team](https://mohamed-faroug.github.io/ap/team/)
 
-
+Sm-g361H
 ***
 
 Communities

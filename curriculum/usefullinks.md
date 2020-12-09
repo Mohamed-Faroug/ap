@@ -6,6 +6,7 @@ title: Useful Links
 
 **Download opera**
 * [For Windows](https://www.opera.com/computer/thanks?ni=stable&os=windows)
+* [VPN APP For Windows](https://www.softether-download.com/)
 
 **[CS50 online course on edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/)**
 
