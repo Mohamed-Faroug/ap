@@ -17,7 +17,7 @@
 * [Graduates Projects](https://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
 * [Code_Sudan Team](https://mohamed-faroug.github.io/ap/team/)
 
-Sm-g361H
+
 ***
 
 Communities
