@@ -20,8 +20,8 @@
 
 ***
 
-Communities
-we teach you how to program not how to write code
+## Communities
+
 * [Facebook Page](https://www.facebook.com/codesudan)
 * [GitHub](https://github.com/code-sudan)
 * [Instagram](https://www.instagram.com/codesudan/)
