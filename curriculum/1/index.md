@@ -30,7 +30,7 @@ title: week 1
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
 
-[Mario](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1//mario/less)
+[Mario](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/mario/less)
 
 [Cash](https://lab.cs50.io/Mohamed-Faroug/lab/main//pset1/cash)
 
