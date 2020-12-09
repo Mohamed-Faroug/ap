@@ -21,7 +21,7 @@
 ***
 
 Communities
-
+we teach you how to program not how to write code
 * [Facebook Page](https://www.facebook.com/codesudan)
 * [GitHub](https://github.com/code-sudan)
 * [Instagram](https://www.instagram.com/codesudan/)
@@ -31,7 +31,7 @@ Communities
 
 ***
 
-* [Students Feedback]https://mohamed-faroug.github.io/ap/curriculum/other/feedback/)
+* [Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/other/feedback/)
 * [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/other/cs50Certficate/)
 * [EDX ](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
