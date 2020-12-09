@@ -1,5 +1,5 @@
 ***
-[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
+[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/other/usefullinks/)
 
 ***
 * [Week 0](https://mohamed-faroug.github.io/ap/curriculum/0/) Scratch 😺
@@ -14,8 +14,8 @@
 
 
 ***
-* [Graduates Projects](https://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
-* [Code_Sudan Team](https://mohamed-faroug.github.io/ap/team/)
+* [Graduates Projects](https://mohamed-faroug.github.io/ap/curriculum/other/graduates/) 🧑‍🎓
+* [Code_Sudan Team](https://mohamed-faroug.github.io/ap/curriculum/other/team/)
 
 
 ***
@@ -31,8 +31,8 @@ Communities
 
 ***
 
-* [Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/feedback/)
-* [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/cs50Certficate/)
+* [Students Feedback]https://mohamed-faroug.github.io/ap/curriculum/other/feedback/)
+* [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/other/cs50Certficate/)
 * [EDX ](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 
