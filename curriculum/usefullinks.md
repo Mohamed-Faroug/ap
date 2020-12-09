@@ -4,8 +4,12 @@ title: Useful Links
 
 # Useful links and reference you need in the program
 
-**Download opera**
-* [For Windows](https://www.opera.com/computer/thanks?ni=stable&os=windows)
+**Download  browser**
+* [opera browser For Windows](https://www.opera.com/computer/thanks?ni=stable&os=windows)
+
+* [chrome browser For Windows](https://www.google.com/chrome/?brand=CHBD&brand=BNSD&gclid=Cj0KCQiA5bz-BRD-ARIsABjT4njdLxr4cA0R8gmosvhBpuOmW6KysxNPsr0XoiwnydxR3ZUnKtrXtLUaAmctEALw_wcB&gclsrc=aw.ds)
+
+---------------------------------
 * [VPN APP For Windows](https://www.softether-download.com/)
 
 **[CS50 online course on edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/)**
